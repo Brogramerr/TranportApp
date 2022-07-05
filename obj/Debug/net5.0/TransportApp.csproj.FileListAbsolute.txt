@@ -1,0 +1,16 @@
+C:\Users\HI\source\repos\TransportApp\bin\Debug\net5.0\TransportApp.exe
+C:\Users\HI\source\repos\TransportApp\bin\Debug\net5.0\TransportApp.deps.json
+C:\Users\HI\source\repos\TransportApp\bin\Debug\net5.0\TransportApp.runtimeconfig.json
+C:\Users\HI\source\repos\TransportApp\bin\Debug\net5.0\TransportApp.runtimeconfig.dev.json
+C:\Users\HI\source\repos\TransportApp\bin\Debug\net5.0\TransportApp.dll
+C:\Users\HI\source\repos\TransportApp\bin\Debug\net5.0\TransportApp.pdb
+C:\Users\HI\source\repos\TransportApp\obj\Debug\net5.0\TransportApp.csproj.AssemblyReference.cache
+C:\Users\HI\source\repos\TransportApp\obj\Debug\net5.0\TransportApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HI\source\repos\TransportApp\obj\Debug\net5.0\TransportApp.AssemblyInfoInputs.cache
+C:\Users\HI\source\repos\TransportApp\obj\Debug\net5.0\TransportApp.AssemblyInfo.cs
+C:\Users\HI\source\repos\TransportApp\obj\Debug\net5.0\TransportApp.csproj.CoreCompileInputs.cache
+C:\Users\HI\source\repos\TransportApp\obj\Debug\net5.0\TransportApp.dll
+C:\Users\HI\source\repos\TransportApp\obj\Debug\net5.0\refint\TransportApp.dll
+C:\Users\HI\source\repos\TransportApp\obj\Debug\net5.0\TransportApp.pdb
+C:\Users\HI\source\repos\TransportApp\obj\Debug\net5.0\TransportApp.genruntimeconfig.cache
+C:\Users\HI\source\repos\TransportApp\obj\Debug\net5.0\ref\TransportApp.dll
