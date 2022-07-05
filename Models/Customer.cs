@@ -26,10 +26,7 @@ namespace TransportApp.Models
             CustomerNo = $"CUS{Guid.NewGuid().ToString().Replace("-", " ").Substring(0, 5).ToUpper()}";
             Wallet = 0m;
         }
-        public Customer()
-        {
 
-        }
 
     }
 }
